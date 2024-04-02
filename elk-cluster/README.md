@@ -1,5 +1,5 @@
 # Elastic stack (ELK) on Docker
-[官方文档 docker-compose 一键安装ELK](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#docker-compose-file)
+[官方文档 docker-compose 一键安装ELK集群](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#docker-compose-file)
 
 Install Docker Compose. Visit the Docker Compose docs to install Docker Compose for your environment.
 
